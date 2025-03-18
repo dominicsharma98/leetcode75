@@ -1,3 +1,5 @@
+package leetcode75;
+
 public class MergeStringsAlternately {
     public static void main(String[] args) {
         String word1="abcd";
